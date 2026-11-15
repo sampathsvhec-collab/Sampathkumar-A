@@ -1,0 +1,6 @@
+{
+  "name": "SS Services",
+  "description": "Electrical, plumbing, and home utility service booking with instant WhatsApp dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

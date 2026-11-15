@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">SS Services</string>
+    <string name="brand_title">SS SERVICES</string>
+    <string name="brand_subtitle">Electrical, Plumbing &amp; Utility Specialists</string>
+    <string name="hero_badge">INSTANT WHATSAPP DISPATCH</string>
+    <string name="hero_banner_cd">SS Services electrical, plumbing, and home utility engineering banner</string>
+
+    <string name="section_choose_service">1. Choose Your Service</string>
+    <string name="section_service_hint">Tap a service below to inspect what is covered</string>
+    <string name="whats_included_label">Typically Covered</string>
+    <string name="turnaround_label">Response: %1$s</string>
+
+    <string name="section_customer_details">2. Customer &amp; Site Details</string>
+    <string name="label_customer_name">Customer Name</string>
+    <string name="placeholder_customer_name">Enter full name</string>
+    <string name="label_phone_number">Phone Number</string>
+    <string name="placeholder_phone_number">10-digit mobile number</string>
+    <string name="label_customer_address">Service Address</string>
+    <string name="placeholder_customer_address">House/Flat no., street, landmark</string>
+    <string name="label_issue_notes">Issue Description / Landmark (Optional)</string>
+    <string name="placeholder_issue_notes">e.g., Main MCB tripping, kitchen tap leak, 2nd floor</string>
+
+    <string name="section_preferred_slot">Preferred Visit Window</string>
+    <string name="remember_details_label">Save my contact details for faster re-booking</string>
+
+    <string name="error_name_required">Please enter the customer name</string>
+    <string name="error_phone_required">Please enter a valid phone number (min 7 digits)</string>
+    <string name="error_address_required">Please enter the service address</string>
+
+    <string name="cta_book_whatsapp">BOOK SERVICE ON WHATSAPP</string>
+    <string name="cta_preview_message">Preview</string>
+    <string name="cta_copy_message">Copy Message</string>
+    <string name="cta_share_other">Share Elsewhere</string>
+    <string name="cta_send_whatsapp">Open WhatsApp</string>
+
+    <string name="cd_settings_button">Dispatch Settings</string>
+    <string name="cd_selected_check">Selected service</string>
+    <string name="cd_preview_button">Preview WhatsApp message</string>
+
+    <string name="settings_title">WhatsApp Dispatch Settings</string>
+    <string name="settings_description">Set the SS Services WhatsApp business number (with country code, digits only) to open a direct chat automatically. Leave blank to pick a recipient inside WhatsApp.</string>
+    <string name="settings_whatsapp_label">Business WhatsApp Number</string>
+    <string name="settings_whatsapp_hint">e.g., 919876543210</string>
+    <string name="settings_clear_saved">Clear Saved Customer Info</string>
+    <string name="settings_save">Save</string>
+    <string name="settings_cancel">Cancel</string>
+    <string name="settings_chip_configured">Direct WA: +%1$s</string>
+    <string name="settings_chip_unconfigured">Set Business WA #</string>
+
+    <string name="preview_sheet_title">Booking Message Preview</string>
+    <string name="preview_sheet_subtitle">This exact message will be pre-filled in WhatsApp</string>
+
+    <string name="msg_copied">Booking details copied to clipboard</string>
+    <string name="msg_settings_saved">Dispatch settings updated</string>
+    <string name="msg_saved_cleared">Saved customer details cleared</string>
+    <string name="msg_whatsapp_unavailable">WhatsApp or browser could not be opened on this device. Use Copy or Share below.</string>
+</resources>
